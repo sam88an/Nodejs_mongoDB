@@ -1,0 +1,36 @@
+[
+    {
+        "name": "SanDisk Ultra 128 GB",
+        "price": "45.09",
+        "description": "Faster connecting Sandisk from Japan...",
+        "rattings": 4.5,
+        "images": [
+            {
+                "public_id": "products/123456asasas",
+                "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5CoUtRqksTr32LOsGu19k204Gg-v7i6TnEkS1Mj6Rn2T7bLkUF0nPn3ZkH6n_MqAx9fdgrAbX&usqp=CAc"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "Ebay",
+        "stock": 3,
+        "numOfReviews": 32,
+        "reviews": []
+    },
+    {
+        "name": "Usb 128 GB",
+        "description": "Faster connecting USBk from Taiwam...",
+        "price": "25",
+        "rattings": 1.6,
+        "images": [
+            {
+                "public_id": "products/123456asasa2222s",
+                "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNq-ORjNLfaPDoG-sy9zOmnd3zz3oIYHLJHK4n3kIzpvAebt4k3Q1Hm8a1PzGWhE-m8qtHTnA&usqp=CAc"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "Amazon",
+        "stock": 2,
+        "numOfReviews": 32,
+        "reviews": []
+    }
+]
